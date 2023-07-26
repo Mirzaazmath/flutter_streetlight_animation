@@ -1,8 +1,26 @@
-# light_bulb_animation
+# Flutter Street Light Animation 
+
+
 
 A new Flutter project.
 
+
 ## Getting Started
+
+
+# Screenshot 1
+
+<img src="https://github.com/Mirzaazmath/flutter_streetlight_animation/blob/main/assets/Screenshot.png" height="400">
+
+
+# Screenshot 2
+
+<img src="https://github.com/Mirzaazmath/flutter_streetlight_animation/blob/main/assets/Screenshot2.png" height="400">
+
+
+# Result 
+
+<img src ="https://github.com/Mirzaazmath/flutter_streetlight_animation/blob/main/assets/Result.gif" height="400">
 
 This project is a starting point for a Flutter application.
 
